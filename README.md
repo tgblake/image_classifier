@@ -7,6 +7,6 @@ The two .ipynb files are identical except for the transform.ToTensor vs. transfo
 Image_Classifier_ToTensor.ipynb gives error:
       TypeError: img should be PIL Image. Got <class 'torch.Tensor'>
       
-Image_Classifier_ToTensor.ipynb gives error:
+Image_Classifier_ToPILImage.ipynb gives error:
       TypeError: pic should be Tensor or ndarray. Got <class 'PIL.Image.Image'>.
       
