@@ -1,6 +1,11 @@
 # image_classifier
 Udacity course project Image Classifier
-Python debug:
+
+The image_classifier_part1.ipynb file shows a bug / mismatch between the VGG16 model and the classifier for 3*224*224 inputs image.
+
+
+
+Python debug (earlier problem with transforms):
 The two .ipynb files are identical except for the transform.ToTensor vs. transform.ToPILImage in the train_transform lines.
 (I tried other tensor- and PIL-related transforms, and commenting them out altogether, with similar results.)
 
