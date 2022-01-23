@@ -1,7 +1,7 @@
 # image_classifier
 Udacity course project Image Classifier
 
-The image_classifier_part1.ipynb file shows a bug / mismatch between the VGG16 model and the classifier for 3*224*224 inputs image.
+The image_classifier_part1.ipynb file shows a bug / mismatch between the VGG16 model and the classifier for 3x224x224 inputs image.
 
 
 
