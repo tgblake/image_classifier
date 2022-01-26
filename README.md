@@ -1,6 +1,8 @@
 # image_classifier
 Udacity course project Image Classifier
 
+The Imsge_Classifier.part1_save2.ipynb show the new classifier with an error message in the training cell, ie. that the image has fewer dimensions than expected.
+
 The image_classifier_part1.ipynb file shows a bug / mismatch between the VGG16 model and the classifier for 3x224x224 inputs images.
 
 
